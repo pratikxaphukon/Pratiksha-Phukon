@@ -28,11 +28,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chikorita_it_is&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikxaphukon&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chikorita_it_is&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratikxaphukon&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikorita_it_is&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikxaphukon&layout=compact&theme=tokyonight" />
 </p>
 
 ---
